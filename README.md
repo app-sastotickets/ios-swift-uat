@@ -1,5 +1,5 @@
 
-## Sasto Tickets SDK Integration summary for Namaste Pay ( IOS )
+## Sasto Tickets SDK Integration summary for Swift Pay ( IOS )
 
 <br>
 <br>
